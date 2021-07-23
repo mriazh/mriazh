@@ -1,5 +1,8 @@
 ### Hi there 👋
-![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mriazh-mriazh&color=55acb7&style=for-the-badge&logo=Github)
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mriazh-mriazh&color=55acb7&style=for-the-badge&logo=Github)\
+![](https://github-readme-stats.vercel.app/api?username=mriazh)]
+
+
 <!--
 **mriazh/mriazh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
