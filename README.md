@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!-- ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mriazh-mriazh&color=55acb7&style=for-the-badge&logo=Github)\ -->
 ![](https://page-views.glitch.me/badge?page_id=mriazh.mriazh)\
-![](https://github-readme-stats.vercel.app/api?username=mriazh)]
+![](https://github-readme-stats.vercel.app/api?username=mriazh)\
 
 
 <!--
