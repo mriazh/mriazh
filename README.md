@@ -6,7 +6,7 @@
 
 **`Network Support @ GMF AeroAsia`**
 
-Seorang Network Support yang berfokus pada monitoring jaringan, troubleshooting, dan otomatisasi proses kerja harian menggunakan Python. Sehari-hari bekerja dengan infrastruktur LAN, Wi-Fi, VLAN, dan switch di lingkungan bandara GMF AeroAsia.
+A Network Support professional focused on network monitoring, troubleshooting, and automating daily workflows using Python. Working hands-on with LAN, Wi-Fi, VLAN, and switch infrastructure at GMF AeroAsia airport environment.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mriazh)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mriyadhazhar@gmail.com)
@@ -18,10 +18,10 @@ Seorang Network Support yang berfokus pada monitoring jaringan, troubleshooting,
 
 ### 🧑‍💻 About Me
 
-- 🔧 Menangani monitoring jaringan, pembaruan topologi, patching switch, konfigurasi VLAN, dan perapihan rack server.
-- 🌐 Berpengalaman dalam pemasangan & konfigurasi perangkat Wi-Fi dan LAN baru serta troubleshoot koneksi di area bandara.
-- 🤖 Mengembangkan tools otomatisasi menggunakan Python untuk mempercepat proses monitoring dan reporting MRTG.
-- 📖 Hobi membaca buku dan artikel untuk terus belajar hal baru.
+- 🔧 Managing network monitoring, topology updates, switch patching, VLAN configuration, and server rack maintenance.
+- 🌐 Experienced in deploying & configuring new Wi-Fi and LAN devices, as well as troubleshooting connections across the airport.
+- 🤖 Building automation tools with Python to speed up MRTG monitoring and reporting workflows.
+- 📖 Love reading books and articles to keep learning new things.
 
 ---
 
@@ -30,11 +30,13 @@ Seorang Network Support yang berfokus pada monitoring jaringan, troubleshooting,
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel_Automation-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
@@ -58,12 +60,11 @@ Seorang Network Support yang berfokus pada monitoring jaringan, troubleshooting,
 
 ### 🚀 Featured Projects
 
-| Proyek | Deskripsi |
-|--------|-----------|
-| [📊 Automated Daily MRTG](https://github.com/mriazh/Automated-Daily-MRTG-Telkom-in-GMF) | Otomatis screenshot grafik MRTG harian dari TelkomCare dengan validasi OCR dan retry otomatis. |
-| [📺 MRTG Live Monitor](https://github.com/mriazh/Automated-MRTG-Telkom-GMF-Monitor) | Dashboard live monitoring 4 grafik MRTG secara real-time dengan grid 2x2 dan auto-refresh 2 menit. |
-| [📊 MRTG to Excel Report](https://github.com/mriazh/Automated-MRTG-to-Excel-Report) | Ekstraksi data bandwidth via OCR dari gambar MRTG lalu disusun otomatis ke laporan Excel bulanan. |
-| [🖼️ MRTG to Excel (Image Only)](https://github.com/mriazh/Automated-MRTG-to-Excel-Report-just_img) | Penempatan gambar MRTG secara presisi ke template Excel tanpa OCR — cepat dan ringan. |
+| Project | Description |
+|---------|-------------|
+| [📊 Automated Daily MRTG](https://github.com/mriazh/Automated-Daily-MRTG-Telkom-in-GMF) | Automated daily MRTG graph screenshot capture from TelkomCare with OCR validation and auto-retry. |
+| [📊 MRTG to Excel Report](https://github.com/mriazh/Automated-MRTG-to-Excel-Report) | Extracts bandwidth data from MRTG images via OCR and populates monthly Excel report templates. |
+| [🖼️ MRTG to Excel (Image Only)](https://github.com/mriazh/Automated-MRTG-to-Excel-Report-just_img) | Precisely resizes and inserts MRTG graph images into Excel report templates — fast and lightweight. |
 
 ---
 
