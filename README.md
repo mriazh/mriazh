@@ -63,11 +63,11 @@ A Network Support professional focused on network monitoring, troubleshooting, a
 
 ### 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| [📊 Automated Daily MRTG](https://github.com/mriazh/Automated-Daily-MRTG-Telkom-in-GMF) | Automated daily MRTG graph screenshot capture from TelkomCare with OCR validation and auto-retry. |
-| [📊 MRTG to Excel Report](https://github.com/mriazh/Automated-MRTG-to-Excel-Report) | Extracts bandwidth data from MRTG images via OCR and populates monthly Excel report templates. |
-| [🖼️ MRTG to Excel (Image Only)](https://github.com/mriazh/Automated-MRTG-to-Excel-Report-just_img) | Precisely resizes and inserts MRTG graph images into Excel report templates — fast and lightweight. |
+- **[📉 Automated Daily MRTG](https://github.com/mriazh/Automated-Daily-MRTG-Telkom-in-GMF)**  
+  *Automated daily MRTG graph screenshot capture from TelkomCare with Smart OCR validation and background processing.*
+
+- **[📊 Automated MRTG to Excel Report](https://github.com/mriazh/Automated-MRTG-to-Excel-Report)**  
+  *All-in-one automation: Extracts bandwidth data via OCR and seamlessly inserts perfectly resized MRTG graph images into monthly Excel templates.*
 
 ---
 
