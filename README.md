@@ -8,11 +8,11 @@
 
 A Network Support professional focused on network monitoring, troubleshooting, and automating daily workflows using Python. Working hands-on with LAN, Wi-Fi, VLAN, and switch infrastructure at GMF AeroAsia airport environment.
 
-<a href="https://mriazh.github.io" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/mriazh" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://www.instagram.com/rapzzzzy" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-<a href="mailto:mriyadhazhar@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://github.com/mriazh" target="_blank">![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="https://mriazh.github.io" target="_blank" rel="noopener noreferrer">![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/mriazh" target="_blank" rel="noopener noreferrer">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.instagram.com/rapzzzzy" target="_blank" rel="noopener noreferrer">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="mailto:mriyadhazhar@gmail.com" target="_blank" rel="noopener noreferrer">![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://github.com/mriazh" target="_blank" rel="noopener noreferrer">![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)</a>
 
 </div>
 
@@ -63,10 +63,10 @@ A Network Support professional focused on network monitoring, troubleshooting, a
 
 ### 🚀 Featured Projects
 
-- **<a href="https://github.com/mriazh/Automated-Daily-MRTG-Telkom-in-GMF" target="_blank">📉 Automated Daily MRTG</a>**  
+- **<a href="https://github.com/mriazh/Automated-Daily-MRTG-Telkom-in-GMF" target="_blank" rel="noopener noreferrer">📉 Automated Daily MRTG</a>**  
   *Automated daily MRTG graph screenshot capture from TelkomCare with Smart OCR validation and background processing.*
 
-- **<a href="https://github.com/mriazh/Automated-MRTG-to-Excel-Report" target="_blank">📊 Automated MRTG to Excel Report</a>**  
+- **<a href="https://github.com/mriazh/Automated-MRTG-to-Excel-Report" target="_blank" rel="noopener noreferrer">📊 Automated MRTG to Excel Report</a>**  
   *All-in-one automation: Extracts bandwidth data via OCR and seamlessly inserts perfectly resized MRTG graph images into monthly Excel templates.*
 
 ---
