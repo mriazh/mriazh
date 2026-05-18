@@ -69,6 +69,9 @@ A Network Support professional focused on network monitoring, troubleshooting, a
 - **[📊 Automated MRTG to Excel Report](https://github.com/mriazh/Automated-MRTG-to-Excel-Report)**  
   *All-in-one automation: Extracts bandwidth data via OCR and seamlessly inserts perfectly resized MRTG graph images into monthly Excel templates.*
 
+- **[🖥️ Automated MRTG Monitor](https://github.com/mriazh/Automated-MRTG-Monitor)**  
+  *A robust desktop application for real-time network bandwidth graph monitoring with auto-refresh, dark/light mode, crash auto-recovery, and Telegram alert integration.*
+
 ---
 
 ### 📊 GitHub Stats
