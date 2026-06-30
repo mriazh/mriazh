@@ -58,9 +58,8 @@ Network Support Engineer focused on enterprise infrastructure monitoring, troubl
 | Project | Description | Tech |
 |---------|-------------|------|
 | [📡 WAC Huawei LLDP Crawler](https://github.com/mriazh/Automated-WAC-Huawei-Crawl-Data) | Automated SSH crawler that maps AP-to-Switch connectivity via LLDP on 451 APs | Python, Paramiko, SSH |
-| [🤖 Automated Daily MRTG](https://github.com/mriazh/Automated-Daily-MRTG-Telkom-in-GMF) | Batch screenshot bot for MRTG graphs with auto-retry and image quality validation | Python, Selenium, PySide6 |
+| [📊 MRTG TelkomCare Report Automation](https://github.com/mriazh/MRTG-TelkomCare-Report-Automation) | End-to-end pipeline: auto-scrape MRTG graphs from TelkomCare, OCR data extraction, and Excel report generation with GUI & CLI | Python, Selenium, PySide6, PaddleOCR, openpyxl |
 | [📺 MRTG Live Monitor](https://github.com/mriazh/Automated-MRTG-Monitor) | Real-time bandwidth monitoring dashboard with auto-refresh and Telegram crash alerts | Python, PySide6, NTP |
-| [📊 MRTG to Excel Report](https://github.com/mriazh/Automated-MRTG-to-Excel-Report) | OCR engine that extracts bandwidth data from graph images into Excel templates | Python, PaddleOCR, openpyxl |
 
 ---
 
