@@ -67,11 +67,11 @@ Network Support Engineer focused on enterprise infrastructure monitoring, troubl
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-dby8.vercel.app/api?username=mriazh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&cache_seconds=60)
-![Top Languages](https://github-readme-stats-dby8.vercel.app/api/top-langs/?username=mriazh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&cache_seconds=60)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mriazh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0099ff&icon_color=0099ff&text_color=c9d1d9&cache_seconds=60)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mriazh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0099ff&text_color=c9d1d9&cache_seconds=60)
 
-![GitHub Streak](https://github-readme-streak-stats-three-topaz.vercel.app/?user=mriazh&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&cache_seconds=60)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mriazh&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mriazh&theme=dark&hide_border=true&background=0d1117&ring=0099ff&fire=0099ff&currStreakLabel=0099ff)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mriazh&bg_color=0d1117&color=0099ff&line=0099ff&point=ffffff&area=true&hide_border=true)
 
 </div>
 
@@ -81,6 +81,6 @@ Network Support Engineer focused on enterprise infrastructure monitoring, troubl
 
 *"Automate the boring stuff, focus on what matters."*
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mriazh.mriazh&left_color=gray&right_color=00ff88)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mriazh.mriazh&left_color=gray&right_color=0099ff)
 
 </div>
