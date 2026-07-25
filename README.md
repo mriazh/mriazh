@@ -2,9 +2,9 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=180&section=header&text=Hey,%20I'm%20Arap!%20👋&fontSize=50)
 
-**`Network Support @ GMF AeroAsia`**
+**`Network Automation Engineer | Python & Infrastructure`**
 
-Network Support Engineer focused on enterprise infrastructure monitoring, troubleshooting, and building Python automation tools. Working hands-on with routers, switches, firewalls, Wi-Fi, and access points at an aviation facility.
+Network Support Engineer at GMF AeroAsia, focused on enterprise network operations and building Python tools for network monitoring, TelkomCare MRTG reporting, Huawei WAC LLDP topology discovery, OCR-based data extraction, SSH automation, and Excel reporting.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4D4DFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mriazh.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mriazh)
@@ -17,9 +17,10 @@ Network Support Engineer focused on enterprise infrastructure monitoring, troubl
 
 ### 🧑‍💻 About Me
 
-- 🔧 Managing network infrastructure: routers, switches, firewalls, and Wi-Fi across aviation facilities.
-- 📡 Previously handled FTTH/GPON installations and fiber troubleshooting (OPM & OTDR) at Biznet.
-- 🤖 Building Python automation tools for MRTG monitoring, SSH crawling, OCR data extraction, and Excel reporting.
+- 🔧 Managing enterprise network infrastructure: routers, switches, firewalls, Wi-Fi, and access points at an aviation facility.
+- 🤖 Building Python automation tools for MRTG monitoring, LLDP topology discovery, SSH automation, OCR workflows, data extraction, and Excel reporting.
+- 🧭 Building toward AI-enabled infrastructure automation without presenting myself as an experienced AI Engineer.
+- 📡 Previously handled FTTH/GPON operations and optical troubleshooting using OPM and OTDR at Biznet.
 - 🎓 MTCNA Certified | Bachelor of IT — University of Jember.
 
 ---
@@ -57,9 +58,9 @@ Network Support Engineer focused on enterprise infrastructure monitoring, troubl
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [📡 WAC Huawei LLDP Crawler](https://github.com/mriazh/Automated-WAC-Huawei-Crawl-Data) | Automated SSH crawler that maps AP-to-Switch connectivity via LLDP on 451 APs | Python, Paramiko, SSH |
-| [📊 MRTG TelkomCare Report Automation](https://github.com/mriazh/MRTG-TelkomCare-Report-Automation) | End-to-end pipeline: auto-scrape MRTG graphs from TelkomCare, OCR data extraction, and Excel report generation with GUI & CLI | Python, Selenium, PySide6, PaddleOCR, openpyxl |
-| [📺 MRTG Live Monitor](https://github.com/mriazh/Automated-MRTG-Monitor) | Real-time bandwidth monitoring dashboard with auto-refresh and Telegram crash alerts | Python, PySide6, NTP |
+| [📊 MRTG-TelkomCare-Report-Automation](https://github.com/mriazh/MRTG-TelkomCare-Report-Automation) | End-to-end TelkomCare MRTG automation with authenticated portal workflow automation, session persistence, graph collection, PaddleOCR-based extraction with Gemini fallback or optional validation, and monthly Excel report generation when the required configuration and API credentials are available. | Python, Selenium, PySide6, PaddleOCR, Gemini API, OpenPyXL, Pytest |
+| [📡 Automated-WAC-Huawei-Crawl-Data](https://github.com/mriazh/Automated-WAC-Huawei-Crawl-Data) | SSH-based crawler that collects LLDP data from Huawei WAC-managed access points and maps AP-to-switch connectivity into structured CSV output. | Python, Paramiko, PySide6, SSH Automation, Pytest, Hypothesis |
+| [📺 GMF-CMP-Automation](https://github.com/mriazh/GMF-CMP-Automation) | Active-development workflow that automates CMP portal login, IMAP-based OTP retrieval, product export, dashboard capture, and Excel report generation. | Python, Playwright, IMAP, OpenPyXL, Pytest, Mypy, Ruff |
 
 ---
 
