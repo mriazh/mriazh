@@ -6,7 +6,7 @@
 
 Network Support Engineer at GMF AeroAsia, bridging enterprise aviation infrastructure with Python automation, OCR data extraction, and Applied AI. Experienced in building automated monitoring pipelines, multi-vendor device crawlers, and reporting workflows.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4D4DFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mriazh.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4D4DFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mriazh.my.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mriazh)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rapzzzzy)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mriyadhazhar@gmail.com)
