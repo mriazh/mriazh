@@ -2,9 +2,9 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=180&section=header&text=Hey,%20I'm%20Arap!%20👋&fontSize=50)
 
-**`Network Support Engineer | Python, Automation & Applied AI`**
+**`Network Support Engineer | Automation, Infrastructure & Applied AI`**
 
-Network Support Engineer at GMF AeroAsia, bridging enterprise aviation infrastructure with Python automation, OCR data extraction, and Applied AI. Experienced in building automated monitoring pipelines, multi-vendor device crawlers, and reporting workflows.
+Network Support Engineer at GMF AeroAsia, bridging enterprise aviation infrastructure with autonomous reporting pipelines, full-stack observability, and Applied AI. Open-source contributor in Go and builder of production daemons on Debian Linux.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4D4DFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mriazh.my.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mriazh)
@@ -15,11 +15,12 @@ Network Support Engineer at GMF AeroAsia, bridging enterprise aviation infrastru
 
 ---
 
-### 🧑💻 About Me
+### 🧑‍💻 About Me
 
-- 🔧 **Enterprise Infrastructure:** Operating campus & hangar network infrastructure (routers, switches, firewalls, Wi-Fi) at an aviation maintenance facility.
-- 🤖 **Infrastructure Automation:** Building robust Python pipelines for telemetry collection, LLDP topology discovery, PoE/inventory audit, and automated Excel reporting across multi-vendor fleets (Huawei, Cisco, MikroTik).
-- 🧠 **Transitioning to AI Engineering:** Applying machine learning & OCR to automate repetitive operational bottlenecks; actively upskilling in Applied AI, LLM tooling, and Cloud/AI certifications.
+- 🔧 **Enterprise Infrastructure:** Operating campus & hangar network infrastructure (routers, switches, firewalls, Wi-Fi) across aviation maintenance facilities.
+- 🤖 **Production Automation:** Architecting 24/7 headless daemons, telemetry pipelines, and automated reporting systems on Debian Linux across multi-vendor fleets (Huawei, Aruba, Cisco, MikroTik).
+- 🌐 **Open Source Contributor:** Contributing production features to Go-based AI routing tools (SSRF security dialer, database retention compaction, quota state isolation).
+- 🧠 **Transitioning to AI Engineering:** Applying OCR and LLMs to solve operational bottlenecks; actively upskilling in Applied AI, model tooling, and cloud certifications.
 - 📡 **Past Experience:** Former FTTH/GPON access network engineer at Biznet Networks; freelance campus switch migration for enterprise banking; former Full Stack Dev intern.
 - 🎓 **Education & Certifications:** Bachelor of IT — University of Jember | MTCNA Certified | Alibaba Cloud ACA.
 
@@ -36,23 +37,28 @@ Network Support Engineer at GMF AeroAsia, bridging enterprise aviation infrastru
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux_Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
-**Automation & Applied AI**
+**Programming & Backend**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+**Automation & AI Tooling**
+
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Paramiko](https://img.shields.io/badge/SSH_(Paramiko)-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062B0?style=for-the-badge&logo=paddlepaddle&logoColor=white)
 ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Web & Data Tools**
+**Web & Tools**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel_Automation-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 </div>
 
@@ -62,9 +68,10 @@ Network Support Engineer at GMF AeroAsia, bridging enterprise aviation infrastru
 
 | Project | Description | Tech |
 |---|---|---|
-| [📊 MRTG-TelkomCare-Report-Automation](https://github.com/mriazh/MRTG-TelkomCare-Report-Automation) | End-to-end TelkomCare MRTG automation across **25 target circuits**. Automates portal session persistence, traffic graph collection, PaddleOCR data extraction with Gemini fallback validation, and monthly Excel reporting—**reducing SLA reporting time from several days to hours**. | Python, Selenium, PySide6, PaddleOCR, Gemini API, OpenPyXL, Pytest |
-| [📡 Automated-WAC-Huawei-Crawl-Data](https://github.com/mriazh/Automated-WAC-Huawei-Crawl-Data) | SSH-based topology discovery crawler mapping connectivity across **450+ Access Points and 110+ Switches** at GMF AeroAsia hangars into structured CSV output, cutting manual inspection from hours to ~1 hour. | Python, Paramiko, PySide6, SSH Automation, Pytest, Hypothesis |
-| [📺 GMF-CMP-Automation](https://github.com/mriazh/GMF-CMP-Automation) | Enterprise operational workflow automating CMP portal authentication, IMAP-based OTP extraction, dashboard capture, and Excel reporting—**slashing daily manual tasks from ~30 minutes to under 3 minutes**. | Python, Playwright, IMAP, OpenPyXL, Pytest, Mypy, Ruff |
+| [👑 Network-Daily-Report-Automation](https://github.com/mriazh/Network-Daily-Report-Automation) | Master 24/7 infrastructure orchestrator on Debian host. Aggregates telemetry across Telkomsel M2M CMP, TelkomCare MRTG, Aruba AirWave switches, Huawei APs, and Orbit modems into automated daily Excel workbooks and technical WhatsApp broadcasts. | Python, Playwright, OpenPyXL, Systemd, GOWA Gateway, Pytest |
+| [📊 MRTG-CMP](https://github.com/mriazh/MRTG-CMP) | 24/7 full-stack network observability platform. Polls MikroTik WAN uplinks via RouterOS API (TCP 8728) alongside headless scrapers for 18 TelkomCare branches & 12 Orbit modems; features SQLite WAL, RRD-fidelity graphs, web console, and Leaflet map. | FastAPI, RouterOS API, SQLite WAL, Matplotlib, Leaflet.js, Systemd |
+| [🔍 Switch-Collector](https://github.com/mriazh/Switch-Collector) | Enterprise multi-vendor switch audit & IT asset profiling tool (ArubaOS-S & ArubaOS-CX 8400). Extracts serial numbers, fan health, PoE power, Huawei LLDP neighbors, and exports 16 CMDB fields for direct Jira Service Management Assets import. Ships with zero-install portable Windows release. | Python, Netmiko, OpenPyXL, PyInstaller, Pytest (328 tests) |
+| [🌐 9router-go (Contributor)](https://github.com/mriazh/9router-go) | High-performance single-binary AI router in Go. Contributed key upstream features including SSRF network protection via safe dialer (#284), database retention storage profiles & compaction (#286), and multi-account quota state isolation. | Go (Golang), SQLite, Svelte, Reverse Proxy, Security |
 
 ---
 
