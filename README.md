@@ -82,7 +82,7 @@ Network Support Engineer at GMF AeroAsia, bridging enterprise aviation infrastru
 ![GitHub Stats](https://github-readme-stats-dby8.vercel.app/api?username=mriazh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0099ff&icon_color=0099ff&text_color=c9d1d9&cache_seconds=60)
 ![Top Languages](https://github-readme-stats-dby8.vercel.app/api/top-langs/?username=mriazh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0099ff&text_color=c9d1d9&cache_seconds=60)
 
-![GitHub Streak](https://github-readme-streak-stats-three-topaz.vercel.app/?user=mriazh&theme=dark&hide_border=true&background=0d1117&ring=0099ff&fire=0099ff&currStreakLabel=0099ff&v=20260818)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mriazh&theme=dark&hide_border=true&background=0d1117&ring=0099ff&fire=0099ff&currStreakLabel=0099ff&v=20261013)
 
 </div>
 
