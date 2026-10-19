@@ -19,7 +19,7 @@ Network Support Engineer at GMF AeroAsia, bridging enterprise aviation infrastru
 
 - 🔧 **Enterprise Infrastructure:** Operating campus & hangar network infrastructure (routers, switches, firewalls, Wi-Fi) across aviation maintenance facilities.
 - 🤖 **Production Automation:** Architecting 24/7 headless daemons, telemetry pipelines, and automated reporting systems on Debian Linux across multi-vendor fleets (Huawei, Aruba, Cisco, MikroTik).
-- 🌐 **Open Source Contributor:** Contributing production features to Go-based AI routing tools (SSRF security dialer, database retention compaction, quota state isolation).
+- 🌐 **Open Source Core Contributor:** Actively engineering production features for Go-based AI model routing and proxy infrastructure (SSRF dialer security, DB retention compaction, multi-provider state isolation).
 - 🧠 **Transitioning to AI Engineering:** Applying OCR and LLMs to solve operational bottlenecks; actively upskilling in Applied AI, model tooling, and cloud certifications.
 - 📡 **Past Experience:** Former FTTH/GPON access network engineer at Biznet Networks; freelance campus switch migration for enterprise banking; former Full Stack Dev intern.
 - 🎓 **Education & Certifications:** Bachelor of IT — University of Jember | MTCNA Certified | Alibaba Cloud ACA.
@@ -71,7 +71,7 @@ Network Support Engineer at GMF AeroAsia, bridging enterprise aviation infrastru
 | [👑 Network-Daily-Report-Automation](https://github.com/mriazh/Network-Daily-Report-Automation) | Master 24/7 infrastructure orchestrator on Debian host. Aggregates telemetry across Telkomsel M2M CMP, TelkomCare MRTG, Aruba AirWave switches, Huawei APs, and Orbit modems into automated daily Excel workbooks and technical WhatsApp broadcasts. | Python, Playwright, OpenPyXL, Systemd, GOWA Gateway, Pytest |
 | [📊 MRTG-CMP](https://github.com/mriazh/MRTG-CMP) | 24/7 full-stack network observability platform. Polls MikroTik WAN uplinks via RouterOS API (TCP 8728) alongside headless scrapers for 18 TelkomCare branches & 12 Orbit modems; features SQLite WAL, RRD-fidelity graphs, web console, and Leaflet map. | FastAPI, RouterOS API, SQLite WAL, Matplotlib, Leaflet.js, Systemd |
 | [🔍 Switch-Collector](https://github.com/mriazh/Switch-Collector) | Enterprise multi-vendor switch audit & IT asset profiling tool (ArubaOS-S & ArubaOS-CX 8400). Extracts serial numbers, fan health, PoE power, Huawei LLDP neighbors, and exports 16 CMDB fields for direct Jira Service Management Assets import. Ships with zero-install portable Windows release. | Python, Netmiko, OpenPyXL, PyInstaller, Pytest (328 tests) |
-| [🌐 9router-go (Contributor)](https://github.com/mriazh/9router-go) | High-performance single-binary AI router in Go. Contributed key upstream features including SSRF network protection via safe dialer (#284), database retention storage profiles & compaction (#286), and multi-account quota state isolation. | Go (Golang), SQLite, Svelte, Reverse Proxy, Security |
+| [🌐 9router-go (Active Core Contributor)](https://github.com/mriazh/9router-go) | High-concurrency single-binary AI model router in Go. Actively engineering upstream core features: SSRF safe dialer (#284), database retention compaction (#286), multi-provider protocol translation, and quota isolation across 40+ AI providers. | Go (Golang), SQLite, Svelte, Reverse Proxy, Security |
 
 ---
 
